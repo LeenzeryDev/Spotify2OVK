@@ -1,5 +1,5 @@
 # Spotify2OVK
-![](https://github.com/LeenzeryDev/Spotify2OVK/blob/net6/app.png?raw=true)
+![](https://github.com/LeenzeryDev/Spotify2OVK/blob/net6/app.png?raw=true)\
 Windows Forms приложение отображающее в статусе OpenVK прослушиваемый трек в Spotify\
 Использует [OpenVKNetApi](https://github.com/lystudios/openvknetapi/)
 # Как использовать
