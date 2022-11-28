@@ -1,5 +1,5 @@
 # Spotify2OVK
-Windows Forms приложение отображающее в статусе OpenVK прослушиваемый трек в Spotify
+Windows Forms приложение отображающее в статусе OpenVK прослушиваемый трек в Spotify\
 Использует [OpenVKNetApi](https://github.com/lystudios/openvknetapi/)
 # Как использовать
 Скачать можно [тут](https://github.com/LeenzeryDev/Spotify2OVK/releases/download/v1/spotify2ovk.zip), распаковать в отдельную папку и запускать Spotify2OVK.exe
